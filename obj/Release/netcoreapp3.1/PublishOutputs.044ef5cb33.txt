@@ -1,0 +1,5 @@
+D:\CORE\Mars_Rover\bin\publish\Mars_Rover.exe
+D:\CORE\Mars_Rover\bin\publish\Mars_Rover.dll
+D:\CORE\Mars_Rover\bin\publish\Mars_Rover.deps.json
+D:\CORE\Mars_Rover\bin\publish\Mars_Rover.runtimeconfig.json
+D:\CORE\Mars_Rover\bin\publish\Mars_Rover.pdb
